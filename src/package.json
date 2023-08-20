@@ -1,0 +1,13 @@
+{
+    "name": "sqlite_migration",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "author": {
+        "name": "mazkdevf"
+    },
+    "dependencies": {
+        "quick.db": "^7.1.3",
+        "sqlite3": "^5.1.6"
+    }
+}
